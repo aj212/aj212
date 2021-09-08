@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" style="margin:auto; display:block;"/>
+<img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width=40%/>
 <h1 align="center">Hi 👋, I'm Anmol Joshi</h1>
 <h3 align="center">A CSE undergraduate and a keen learner who believes in hardwork and optimism!!</h3>
 
